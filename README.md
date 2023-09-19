@@ -1,7 +1,4 @@
 # Responsive Personal Website Roland Petrasch
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Personal Website Roland Petrasch
-
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
 - Includes a light and dark mode.
